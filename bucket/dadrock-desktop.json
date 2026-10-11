@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/vincentarelbundock/dadr/releases/download/v0.0.2/dadrock-desktop-x86_64-pc-windows-msvc.zip",
-            "hash": "9b9033193381371dd0fa1583dbab3016e199453b1fb4a125306e2f7108b902f9"
+            "hash": "f42e3b9ff14ab483124721c9cb718275f1e67c4732a65af945ec7c6215074372"
         }
     },
     "bin": "dadrock-desktop.exe",
